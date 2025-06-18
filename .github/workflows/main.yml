@@ -13,7 +13,6 @@ jobs:
         with:
           token: ${{ secrets.SIKIMZO_TOKEN }}
 
-          # Options
           user: iErfun
           template: classic
           base: header, repositories
